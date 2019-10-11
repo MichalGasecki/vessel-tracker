@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\SQL\VesselTracker\VesselTracker\bin\Debug\VesselTracker.exe.config
+C:\Users\User\Desktop\SQL\VesselTracker\VesselTracker\bin\Debug\VesselTracker.exe
+C:\Users\User\Desktop\SQL\VesselTracker\VesselTracker\bin\Debug\VesselTracker.pdb
+C:\Users\User\Desktop\SQL\VesselTracker\VesselTracker\bin\Debug\dbup-core.dll
+C:\Users\User\Desktop\SQL\VesselTracker\VesselTracker\bin\Debug\dbup-sqlserver.dll
+C:\Users\User\Desktop\SQL\VesselTracker\VesselTracker\obj\Debug\VesselTracker.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SQL\VesselTracker\VesselTracker\obj\Debug\VesselTracker.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SQL\VesselTracker\VesselTracker\obj\Debug\VesselTracker.csproj.CopyComplete
+C:\Users\User\Desktop\SQL\VesselTracker\VesselTracker\obj\Debug\VesselTracker.exe
+C:\Users\User\Desktop\SQL\VesselTracker\VesselTracker\obj\Debug\VesselTracker.pdb
+F:\GitHub\vessel-tracker\VesselTracker Project\VesselTracker\bin\Debug\VesselTracker.exe.config
+F:\GitHub\vessel-tracker\VesselTracker Project\VesselTracker\bin\Debug\VesselTracker.exe
+F:\GitHub\vessel-tracker\VesselTracker Project\VesselTracker\bin\Debug\VesselTracker.pdb
+F:\GitHub\vessel-tracker\VesselTracker Project\VesselTracker\bin\Debug\dbup-core.dll
+F:\GitHub\vessel-tracker\VesselTracker Project\VesselTracker\bin\Debug\dbup-sqlserver.dll
+F:\GitHub\vessel-tracker\VesselTracker Project\VesselTracker\obj\Debug\VesselTracker.csprojAssemblyReference.cache
+F:\GitHub\vessel-tracker\VesselTracker Project\VesselTracker\obj\Debug\VesselTracker.csproj.CoreCompileInputs.cache
+F:\GitHub\vessel-tracker\VesselTracker Project\VesselTracker\obj\Debug\VesselTracker.csproj.CopyComplete
+F:\GitHub\vessel-tracker\VesselTracker Project\VesselTracker\obj\Debug\VesselTracker.exe
+F:\GitHub\vessel-tracker\VesselTracker Project\VesselTracker\obj\Debug\VesselTracker.pdb
